@@ -2,4 +2,4 @@
 if (process.argv) {
 	console.log(process.argv);
 } else {
-	console.log("No argument");
+	console.log('No argument');
